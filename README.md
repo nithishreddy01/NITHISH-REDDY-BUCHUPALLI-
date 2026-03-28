@@ -10,7 +10,7 @@ Building intelligent AI systems, deploying ML/DL models with Flask, and solving 
 
 ---
 
-## 🧠 About
+## 👨‍💻 About
 
 * 🎓 Computer Science (Artificial Intelligence & Machine Learning) undergraduate (B.Tech)
 * 💻 Fontend developer with experience in Machine Learning and Deep Learning
