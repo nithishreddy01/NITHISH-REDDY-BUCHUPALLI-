@@ -30,7 +30,7 @@ Building intelligent AI systems, deploying ML/DL models with Flask, and solving 
   </a>
 
   <a href="mailto:buchupallinithish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
